@@ -18,8 +18,8 @@ NFSW.HUDScale is an ASI plugin that scales the game's UI instead. The game rende
 - **Tooltips and pop-ups:** they appear next to what you hover, including the aftermarket, performance-part and skill-mod info pop-ups that flip to the side of the cursor.
 - **Separate tooltip size:** set relative to the UI scale.
 - **Per-element control by file name:** exclude, pin, or scale only the content.
-- **Optional:** scaled car name tags, top bar and power-up wheel toggles.
-- **Optional cursor auto-hide:** hides the mouse cursor while driving after a few seconds without mouse activity. It never hides in menus, shops or windows.
+- **Scaled tags** scaled car name tags, top bar and power-up wheel toggles. Can be disabled.
+- **Cursor auto-hide:** hides the mouse cursor while driving after a few seconds without mouse activity. It never hides in menus, shops or windows. Can be disabled.
 - **Safe on other builds:** if the game version doesn't match, the plugin disables itself and logs why. It never patches blindly.
 
 ## Requirements
