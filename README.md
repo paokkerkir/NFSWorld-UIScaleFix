@@ -1,4 +1,4 @@
-# NFSW.HUDScale
+# NFSWorld-UI Scale Fix
 
 **HUD and menu scaling for Need for Speed: World at 1440p, 4K and other high resolutions.**
 
