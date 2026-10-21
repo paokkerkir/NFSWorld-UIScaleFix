@@ -2,7 +2,7 @@
 
 **HUD and menu scaling for Need for Speed: World at 1440p, 4K and other high resolutions.**
 
-Current version: **1.0.0**. See the [release notes](RELEASE_NOTES.md).
+**[⬇️ Download Latest Release](../../releases/latest)**
 
 At high resolutions, NFS World draws its HUD, menus and windows at their original pixel size, so at 1440p or 4K they become tiny. The usual workaround is to run the game at 1080p and upscale the whole picture, which makes the 3D world blurry.
 
