@@ -133,6 +133,6 @@ This is unrelated to the NFS: Most Wanted widescreen fix. That game uses EA's ol
 
 ## Credits
 
-- Reverse engineering and implementation: the NFSW.HUDScale authors.
+- Reverse engineering and implementation: paokkerkir.
 - Thanks to AXTON mod **NFSWUIScale** for feature ideas: identifying elements by file name, anchoring context menus at their top-left corner, scaling name tags in place, and remembering window positions.
 - Need for Speed: World is © Electronic Arts. This project isn't affiliated with EA or the Soapbox Race World team.
