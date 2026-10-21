@@ -8,6 +8,16 @@ At high resolutions, NFS World draws its HUD, menus and windows at their origina
 
 NFSW.HUDScale is an ASI plugin that scales the game's UI instead. The game renders at your native resolution while the HUD, menus and windows are drawn at a readable size, and everything stays clickable, draggable and in the right place.
 
+## Before/After at 1440p
+<img width="2560" height="1440" alt="nrz_004" src="https://github.com/user-attachments/assets/6d91c98c-3d3e-404e-bf23-86736a5b794b" />
+<img width="2560" height="1440" alt="nrz_005" src="https://github.com/user-attachments/assets/eb12261d-b31f-4ee3-be03-7023962c715b" />
+
+<img width="2560" height="1440" alt="nrz_003" src="https://github.com/user-attachments/assets/d0667cf2-2929-4af4-a43c-86ee80830343" />
+<img width="2560" height="1440" alt="nrz_002" src="https://github.com/user-attachments/assets/7e16b6ba-4731-4ebc-8617-c9ce54cc130f" />
+
+
+
+
 ## Features
 
 - **Scales the whole UI:** HUD (speedometer, top bar, power-up wheel, race widgets), full-screen menus (safehouse, aftermarket, options, …), windows (driver, social, chat, achievements, …) and pop-ups.
