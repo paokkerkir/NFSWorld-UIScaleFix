@@ -127,9 +127,6 @@ NFS World's UI is built from Scaleform GFx (Flash) movies. Each HUD piece, menu 
 - patches a few game routines that pass screen coordinates straight into Flash or read Flash sizes as pixels: map resize, menu tooltips, item pop-ups, and the event HUD's click area;
 - optionally hides the cursor through the game's own `SetCursor` calls, while only HUD elements are on screen.
 
-The full reverse-engineering notes are in [docs/TECHNICAL.md](docs/TECHNICAL.md).
-
-This is unrelated to the NFS: Most Wanted widescreen fix. That game uses EA's older FEng UI engine, so its fix can't be ported.
 
 ## Credits
 
